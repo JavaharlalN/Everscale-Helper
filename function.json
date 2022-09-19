@@ -1,0 +1,8 @@
+{
+    "abi_version": "2.3",
+    "name": "renderHelloWorld",
+    "inputs": [],
+    "outputs": [
+        {"name":"value0","type":"string"}
+    ]
+}

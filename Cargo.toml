@@ -1,0 +1,11 @@
+[package]
+name = "everscale-helper"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ton_abi = { git="https://github.com/tonlabs/ton-labs-abi" }
+clap = "3.2.22"
+serde_json = "*"
